@@ -4,6 +4,6 @@
 #include <stdlib.h>
 int main(void)
 {
-    printf("test\n");
+    printf("testre\n");
     return 0;
 }
